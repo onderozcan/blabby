@@ -1,6 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Blabby Translator
 
 You can use the [editor on GitHub](https://github.com/onderozcan/blabby/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+Blabby is providing 3 options inorder to make a translation.
+1. Text to Translation
+2. Speak to Translation
+3. OCR to Translation
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
